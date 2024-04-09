@@ -2,13 +2,21 @@
 FINAL YEAR PROJECT(SVP)
 
 ⚙️ Tech Stack
+
 Next.js
+
 TypeScript
+
 Clerk
+
 getstream
+
 shadcn
+
 Tailwind CSS
+
 🔋 Features
+
 👉 Authentication: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
 
 👉 New Meeting: Quickly start a new meeting, configuring camera and microphone settings before joining.
